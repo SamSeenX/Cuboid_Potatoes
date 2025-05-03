@@ -1,7 +1,7 @@
 # CUBE POTATO BY SAMSEEN
 
 This resource pack changes the default flat potato item model to a 3D cube-shaped potato with rounded corners, inspired by the potato prop shown in the Minecraft movie, as featured in Mumbo Jumbo's behind the scenes tour YouTube short.
-
+https://youtube.com/shorts/Fp1PP2nCicU
 Created by: SamSeen
 Compatible with: Minecraft 1.21.1 and newer
 
