@@ -1,0 +1,123 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "potato": "minecraft:item/potato",
+    "particle": "minecraft:item/potato"
+  },
+  "elements": [
+    {
+      "from": [5, 1, 3],
+      "to": [11, 6, 13],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "east": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "west": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "up": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "down": { "uv": [0, 0, 16, 16], "texture": "#potato" }
+      }
+    },
+    {
+      "from": [4.5, 1.5, 4],
+      "to": [11.5, 5.5, 12],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "east": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "west": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "up": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "down": { "uv": [0, 0, 16, 16], "texture": "#potato" }
+      }
+    },
+    {
+      "from": [5.5, 0.5, 3.5],
+      "to": [10.5, 6.5, 12.5],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "east": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "west": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "up": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "down": { "uv": [0, 0, 16, 16], "texture": "#potato" }
+      }
+    },
+    {
+      "from": [5, 0, 4],
+      "to": [11, 7, 12],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "east": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "west": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "up": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "down": { "uv": [0, 0, 16, 16], "texture": "#potato" }
+      }
+    },
+    {
+      "from": [6, 0.25, 2.5],
+      "to": [10, 6.75, 13.5],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "east": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "west": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "up": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "down": { "uv": [0, 0, 16, 16], "texture": "#potato" }
+      }
+    },
+    {
+      "from": [5.25, 1.25, 2.75],
+      "to": [10.75, 5.75, 13.25],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "east": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "west": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "up": { "uv": [0, 0, 16, 16], "texture": "#potato" },
+        "down": { "uv": [0, 0, 16, 16], "texture": "#potato" }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [15, -45, 75],
+      "translation": [0, 4.0, 0.5],
+      "scale": [0.55, 0.55, 0.55]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [15, 45, -75],
+      "translation": [0, 4.0, 0.5],
+      "scale": [0.55, 0.55, 0.55]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -45, 75],
+      "translation": [1.13, 3.2, 1.13],
+      "scale": [0.68, 0.68, 0.68]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 45, -75],
+      "translation": [1.13, 3.2, 1.13],
+      "scale": [0.68, 0.68, 0.68]
+    },
+    "ground": {
+      "rotation": [75, 25, 75],
+      "translation": [1, 3, 0],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "gui": {
+      "rotation": [30, 225, 75],
+      "translation": [0, 1, 0],
+      "scale": [0.9, 0.9, 0.9]
+    },
+    "fixed": {
+      "rotation": [0, 180, 75],
+      "translation": [0, 0, 0],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "head": {
+      "rotation": [0, 0, 75],
+      "translation": [0, 10, 0],
+      "scale": [1, 1, 1]
+    }
+  }
+}
